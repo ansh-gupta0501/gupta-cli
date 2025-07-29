@@ -14,7 +14,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "inquirer": "^8.2.5",
+    "inquirer": "^8.2.6",
     "yargs": "^18.0.0"
   }
 }
